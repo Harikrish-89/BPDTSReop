@@ -1,0 +1,6 @@
+com\bpdts\BpdtsApiApplication.class
+com\bpdts\client\model\User.class
+module-info.class
+com\bpdts\api\LondonUsersApi.class
+com\bpdts\client\exception\InvalidResponseException.class
+com\bpdts\client\BpdtsClient.class

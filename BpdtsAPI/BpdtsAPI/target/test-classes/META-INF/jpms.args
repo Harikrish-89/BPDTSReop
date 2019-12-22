@@ -1,0 +1,4 @@
+--patch-module
+bpdtsclient=_
+--add-reads
+bpdtsclient=ALL-UNNAMED
